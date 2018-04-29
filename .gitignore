@@ -36,3 +36,5 @@ Enumerations/obj/Debug/netcoreapp2.0/Enumerations.pdb
 Enumerations/obj/Debug/netcoreapp2.0/Enumerations.AssemblyInfo.cs
 Enumerations/obj/Debug/netcoreapp2.0/Enumerations.AssemblyInfoInputs.cache
 Structs/obj/project.assets.json
+singleArray/bin/*
+singleArray/obj/*
